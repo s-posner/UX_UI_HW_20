@@ -134,6 +134,15 @@ footer ul{
     justify-content: space-between;
 }
 
+.contents{
+    margin-top: 5%;  
+}
+
+.slides {
+    width: 75%;
+    height: auto;
+}
+
 @media only screen and (max-width: 600px){
 
     #hello{
