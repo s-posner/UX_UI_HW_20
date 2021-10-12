@@ -71,7 +71,7 @@ header ul{
 }
 
 #hello{
-    color: black;
+    color: #202020;
     display: flex;
     text-align: left;
     flex-direction: row; 
@@ -88,7 +88,7 @@ header ul{
 }
 
 #back-top{
-    color: black;
+    color: #202020;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -97,7 +97,7 @@ header ul{
 
 #back-top a{
     padding-top: 3%;
-    color: black;
+    color: #202020;
     text-decoration: none;
 }
 
@@ -110,14 +110,14 @@ a {
 }
 
 #footer2 a {
-    color: black;
+    color:#202020;
 }
 
 footer{
     background-image: url(../images/footer\ pale.png);
     background-size: cover;
     height: 150px;
-    color: black;
+    color: #202020;
     display: flex;
     flex-direction: row; 
     justify-content: space-between;
@@ -152,10 +152,18 @@ footer ul{
     margin-top: 2%;
 }
 
+#sp{
+    color: #E2C6C6;
+}
+
+#tableof {
+    color: #202020;
+}
+
 @media only screen and (max-width: 600px){
 
     #hello{
-        color: black;
+        color: #202020;
         display: flex;
         text-align: left;
         flex-direction: column; 
