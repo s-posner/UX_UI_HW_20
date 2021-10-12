@@ -138,9 +138,10 @@ footer ul{
     margin-top: 5%;  
 }
 
-.slides {
-    width: 75%;
+#slides {
+    width: 50%;
     height: auto;
+    margin-top: 2%;
 }
 
 @media only screen and (max-width: 600px){
